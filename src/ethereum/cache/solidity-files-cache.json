@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\kadiw001\\OneDrive - California State University San Marcos\\Desktop\\CS537\\Assignments\\Week14\\Final_Project\\Code\\Project_537\\src\\ethereum\\contracts\\SportsBetting.sol": {
+      "lastModificationDate": 1707432667066,
+      "contentHash": "489ca87b170231d6f9f9b4b1d674806f",
+      "sourceName": "src/ethereum/contracts/SportsBetting.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "SportsBetting"
+      ]
+    }
+  }
+}
