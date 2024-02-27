@@ -1,5 +1,3 @@
-# Universal-Pass
-
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contract)
@@ -17,7 +15,7 @@
 
 ### 2. Install Dependencies:
 ```
-$ cd Universal-Pass
+$ cd sportsBettingSmartContract
 $ npm install
 ```
 ### 3. Boot up local development blockchain
